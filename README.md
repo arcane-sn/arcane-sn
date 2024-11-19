@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @arcane-sn
+# 👋 Hi, I’m Ezra Senaputra
 
 I’m a passionate **Frontend Developer** with 3+ years of experience, always eager to learn and contribute to the open-source community. 
 I specialize in building efficient, scalable web applications using a wide range of technologies. 
