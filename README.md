@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ezra Senaputra
 
-I’m a passionate **Frontend Developer** with 3+ years of experience, always eager to learn and contribute to the open-source community. 
+I’m a passionate **Software Engineer** with 3+ years of experience mainly on Frontend Development, always eager to learn and want contribute to the open-source community. 
 I specialize in building efficient, scalable web applications using a wide range of technologies. 
 When I’m not coding, you’ll probably find me enjoying a cup of coffee – a little too much, even though I have GERD! 😄
 
